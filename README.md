@@ -1,6 +1,6 @@
 # Green ETF Analysis
 
-The Green ETF Analysis project aims to compare and contrast several major green ETFs with each other and with the Vanguard Total Stock Market ETF (VTI). The analysis includes visualizations of adjusted close values, moving averages, daily returns, and value at risk assessments.
+The Green ETF Analysis project aims to compare and contrast several major green ETFs (those representing the sustainability and clean energy sector) with each other and with the Vanguard Total Stock Market ETF (VTI). The analysis includes visualizations of adjusted close values, moving averages, daily returns, and value at risk assessments.
 
 The ETFs analyzed are:
 
