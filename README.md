@@ -4,7 +4,7 @@ The Green ETF Analysis project aims to compare and contrast several major green 
 
 The ETFs analyzed are:
 
-- **iShares Global Clean Energy ETF (ICLN)**: 
+- **iShares Global Clean Energy ETF (ICLN)**: \n
         -Total assets: $2.477 billion
 - **First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN)**:
         -Total assets: $837.32 million
