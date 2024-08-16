@@ -4,15 +4,15 @@ The Green ETF Analysis project aims to compare and contrast several major green 
 
 The ETFs analyzed are:
 
-- **iShares Global Clean Energy ETF (ICLN)**
+- **iShares Global Clean Energy ETF (ICLN)**: 
         -Total assets: $2.477 billion
-- **First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN)**
+- **First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN)**:
         -Total assets: $837.32 million
-- **Invesco WilderHill Clean Energy ETF (PBW)**
+- **Invesco WilderHill Clean Energy ETF (PBW)**:
         -Total assets: $366.32 million
-- **ALPS Clean Energy ETF (ACES)**
+- **ALPS Clean Energy ETF (ACES)**:
         -Total assets: $230.22 million
-- **SPDR S&P Kensho Clean Power ETF (CNRG)**
+- **SPDR S&P Kensho Clean Power ETF (CNRG)**:
         -Total assets: $213.84 million
 
 ## Requirements
