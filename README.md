@@ -48,16 +48,16 @@ Run each cell in the notebook sequentially to perform the analysis.
 
 ## Analysis Sections
 
-1. Data Acquisition
+1. **Data Acquisition**
 The notebook fetches historical data for the ETFs and VTI using the yfinance library for the past year.
-2. Adjusted Close Values
+2. **Adjusted Close Values**
 Visualizations of historical adjusted close values for each ETF.
-3. Moving Averages
+3. **Moving Averages**
 Plots showing the 10, 20, and 50-day moving averages for each ETF.
-4. Daily Returns
+4. **Daily Returns**
 Histograms and KDE plots of daily returns for each ETF.
-5. Correlation Analysis
+5. **Correlation Analysis**
 Pairplots and heatmaps to visualize correlations between adjusted close values and daily returns of the ETFs.
-6. Value at Risk (VaR)
-    a) Quantile Method: Calculation of VaR using quantiles to estimate potential risk.
-    b) Monte Carlo Simulation: Simulation of future price distributions to estimate potential risk and price distributions.
+6. **Value at Risk (VaR)**:
+    - Quantile Method: Calculation of VaR using quantiles to estimate potential risk.
+    - Monte Carlo Simulation: Simulation of future price distributions to estimate potential risk and price distributions.
