@@ -17,7 +17,7 @@ The ETFs analyzed are:
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - numpy
 - pandas
 - matplotlib
